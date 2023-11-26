@@ -1,8 +1,4 @@
-## 👋 안녕하세요, 이병길입니다 👋
-
-<a href="https://blog.naver.com/donny1848" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
-<a href="https://alder-talon-aab.notion.site/SW-7336ab2bec9740239e6368c2dc46fc9a?pvs=4" target="_blank"><img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-<a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/donny1848@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+## 👋 안녕하세요, 황민우 입니다 👋
 
 
 저는 신입 **백엔드 개발자** 로 취직을 준비하고 있습니다.
@@ -11,13 +7,10 @@
 
 
 🔭가장 최근에는
-<a href="https://github.com/NetRoomManager/NetroomManager" target="_blank">피씨방관리프로그램</a> 
+<a href="https://github.com/Travel-Maker-project/Travel_maker" target="_blank">여행관련</a> 
 프로젝트를 진행했습니다.
 
 새로운 기술과 도전을 시도하고 있으며, 지금은 JPA와 Node.js와 같은 다양한 백엔드 기술에 대해 관심을 가지고 있으며 공부할 계획입니다.
-
-
-알고리즘 문제 해결 능력을 키우기 위해 문제풀이 사이트에서 [알고리즘 문제풀이](https://github.com/Employment-Study/Algorithm_Study/tree/LeeBG)도 조금씩 풀고 있습니다.
 
 더 나은 개발자가 되기위해 열심히 배우고 있습니다.
 꾸준히 노력하여 좋은 개발자가 되겠습니다.
@@ -89,5 +82,5 @@
 <br/>
 <br/>
 
-![LeeBG's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeBG&show_icons=true&theme=radical)
+![hwangminu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangminu&show_icons=true&theme=radical)
 
