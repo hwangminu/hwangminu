@@ -10,7 +10,7 @@
 <a href="https://github.com/Travel-Maker-project/Travel_maker" target="_blank">여행관련</a> 
 프로젝트를 진행했습니다.
 
-새로운 기술과 도전을 시도하고 있으며, 지금은 JPA와 Node.js와 같은 다양한 백엔드 기술에 대해 관심을 가지고 있으며 공부할 계획입니다.
+새로운 기술과 도전을 시도하고 있으며, 지금은 GIT과 JPA, Node.js와 같은 다양한 백엔드 기술에 대해 관심을 가지고 있으며 공부할 계획입니다.
 
 더 나은 개발자가 되기위해 열심히 배우고 있습니다.
 꾸준히 노력하여 좋은 개발자가 되겠습니다.
@@ -25,8 +25,6 @@
 <img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=OpenJDK&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 
@@ -48,13 +46,7 @@
 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
 </div>
 
@@ -73,8 +65,6 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Apache NetBeans IDE-1B6AC6?style=for-the-badge&logo=apacheNetBeansIDE&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 
 </div>
 
